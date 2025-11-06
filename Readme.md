@@ -96,17 +96,6 @@
 </div>
 
 
-<p>
-<br clear="both">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="center">🐍🍽️ Snake is eating my contributions! 😅</h3>
-
-
-<div align="center">
-
-
-![snake gif](https://github.com/praveen-86176/blob/output/github-snake-dark.svg)
-
 </div>
 
 ###
