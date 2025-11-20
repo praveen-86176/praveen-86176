@@ -90,7 +90,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-86176&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" style="margin-bottom: 20px;" /><br>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveen86176&theme=aura" style="margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveen-86176&theme=aura" style="margin-right: 10px;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveen-86176&theme=aura" style="margin-left: 10px;" /><br>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveen-86176&theme=aura" style="margin-right: 10px; margin-top: 20px;" />
