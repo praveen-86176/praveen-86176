@@ -14,11 +14,13 @@
 
 ###
 
-<p align="left">✨ Debugging my own code since 2024 😆<br>  
-📚 Learning MERN stack 🌱<br>  
-🎯 Goal: Build awesome full-stack projects 🚀<br>  
-🎲 Fun fact: I break things just to fix them again! 🔧😂  
-.</p>
+<p align="left">
+  ✨ Debugging my own code since 2024 😆<br><br>
+  📚 Currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) 🌱<br><br>
+  🎯 Passionate about building scalable and impactful full-stack projects with clean architecture and efficient backend logic 🚀<br><br>
+  🧠 Always exploring new technologies in AI/ML, Web Development & Cloud Deployment to level up my development skills 💡<br><br>
+  🎲 Fun fact: I often break things on purpose just to understand how they work and fix them again — that’s my way of learning! 🔧😂<br>
+</p>
 
 ###
 
