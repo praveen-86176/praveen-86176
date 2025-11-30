@@ -79,7 +79,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">🔥My Stats :</h3>
+<h3 align="center"> My Stats :</h3>
 
 
 <p align="center">
