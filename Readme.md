@@ -4,7 +4,7 @@
 <h1>👋 Hey, what's up? 🚀</h1>
 
 
-<p align="left">My name is Praveen Kumar and I'm a Developer, from India</p>
+<p align="left">My name is Praveen Kumar and I'm a Developer, from Banglore , India</p>
 
 ![](https://komarev.com/ghpvc/?username=praveen-86176&color=blue)
 
